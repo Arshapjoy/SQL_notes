@@ -1,6 +1,7 @@
 ## SQL Simplified: A Beginner's Guide to Mastering SQL for Data Science and Analytics
 
-!(SQL Mastery.png)
+![web app 1.png](https://github.com/Arshapjoy/SQL_notes/blob/main/SQL%20Mastery.png)
+
 Welcome to  **"SQL Simplified: A Beginner's Guide to Mastering SQL for Data Science and Analytics"!**  If you're an aspiring data scientist or analytics enthusiast eager to harness the power of data, you're in the right place.
 
 Structured Query Language (SQL) is the backbone of data management, and Microsoft SQL Server (MS SQL) is a leading platform used by organizations worldwide. This book is crafted to guide you through the essentials of SQL within the MS SQL environment, with a focus on applications relevant to data science and analytics.
